@@ -6,6 +6,9 @@ import java.util.List;
  *
  * @author omar
  */
+
+// Name : Omar Mohamed Abd EL-Hamid
+// Group: G_10
 public class Pyramidsproject {
 
  
